@@ -14,17 +14,17 @@ sidebar:
     # Sidebar links
     email: lottycoupat97@gmail.com
     phone: 07528667077
-    website: blog.webjeda.com #do not add http://
+    website: 
     linkedin: Charlotte Coupat
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    xing:
+    github:
+    telegram: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
       - idiom: English
@@ -51,7 +51,7 @@ career-profile:
       a leadership programme which aims to develop the future leaders of the 
       Civil Service. 
 education:
-    - degree: BSc Geographt
+    - degree: BSc Geography
       university: University of Nottingham
       time: 2015 - 2018
       details: 
@@ -64,32 +64,16 @@ education:
       details:
         
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Community Manager
+      time: April 2021 - Present
+      company: Alan Turing Institute
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        
+    - role: Delivery and Business Relationship Manager
+      time: October 2020 - April 2021
+      company: Deparment Business, Energy and Industrial Strategy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
