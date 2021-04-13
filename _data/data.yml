@@ -31,7 +31,13 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Native
+        
+      - idiom: Italian
+        level: Beginner
+        
+      - idiom: German
+        level: Beginner       
 
 
     interests:
@@ -58,10 +64,14 @@ education:
       - Focus on the physical and scientific aspects of Geography 
       - Speciality focus on Biogeography, Environmental and Climate Change
       - 1st Dissertation on the sustainability of the fishing indisutry in the Pacific Ocean
-    - degree: 
-      university: 
-      time: 
-      details:
+    - degree: Internation Baccelaureate
+      university: Hockerill Anglo European College
+      time: 2008 - 2015
+      details: 
+      - 36 points
+      - Higher Level Geography (6), Biology (6) and French (6)
+      - Standard Level Mathematics (5), English Literature (5) and Social Anthropolgy (6)
+      - Additional Points Extended Essay (A) and Theory of Knoweldge (C) 
         
 experiences:
     - role: Community Manager
@@ -71,90 +81,79 @@ experiences:
         
     - role: Delivery and Business Relationship Manager
       time: October 2020 - April 2021
+      company: Department for Education
+      details: |
+        
+    - role: Business Change Manager
+      time: October 2019 - October 2020
       company: Deparment Business, Energy and Industrial Strategy
       details: |
         
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: 
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 
+        link: 
+        tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: 
+        link: 
+        tagline: 
+        
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: 
+    intro: 
+     
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title:
+        link: 
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Microsoft 365
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Markdown
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Github
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: 
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 
+        level: 
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
