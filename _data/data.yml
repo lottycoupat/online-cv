@@ -60,14 +60,14 @@ education:
     - degree: BSc Geography
       university: University of Nottingham
       time: 2015 - 2018
-      details: 
-      - Focus on the physical and scientific aspects of Geography 
-      - Speciality focus on Biogeography, Environmental and Climate Change
-      - 1st Dissertation on the sustainability of the fishing indisutry in the Pacific Ocean
+      details: |
+      * Focus on the physical and scientific aspects of Geography 
+      * Speciality focus on Biogeography, Environmental and Climate Change
+      * 1st Dissertation on the sustainability of the fishing indisutry in the Pacific Ocean
     - degree: Internation Baccelaureate
       university: Hockerill Anglo European College
       time: 2008 - 2015
-      details: 
+      details: |
       - 36 points
       - Higher Level Geography (6), Biology (6) and French (6)
       - Standard Level Mathematics (5), English Literature (5) and Social Anthropolgy (6)
@@ -77,7 +77,7 @@ experiences:
     - role: Community Manager
       time: April 2021 - Present
       company: Alan Turing Institute
-      details:
+      details: |
       - Bridge communities associated with the AutSPACEs project to ensure collaboration
       - Create and maintain communication channels to ensure engagement of all stakeholders with the project
       - Ensure a wide variety of communications to account for different working styles 
@@ -86,7 +86,7 @@ experiences:
     - role: Delivery and Business Relationship Manager
       time: October 2020 - April 2021
       company: Department for Education
-      details:
+      details: |
       - Requirements gathering of enhancements from a wide range of key stakeholders of the end to end processes
       - Working in an Agile way to successfully implement new processes to reflect the new ways of working following COVID19
       - Delivering the development and continous improvement of the Return to Office process from a technological perspective. 
@@ -95,7 +95,7 @@ experiences:
     - role: Business Change Manager
       time: October 2019 - October 2020
       company: Deparment Business, Energy and Industrial Strategy
-      details:
+      details: |
       - Creation of the communications strategy and plan for the launch of new processes in the AS-IS Shared Services platform
       - Writing of key communications informing the whole department of changes and new processes in place following improvmeents 
         to the current Shared Services platform
