@@ -56,23 +56,6 @@ career-profile:
       I am currently on the Digital, Data and Technology Civil Service Faststream, 
       a leadership programme which aims to develop the future leaders of the 
       Civil Service. 
-
-education:
-    - degree: BSc Geography
-      university: University of Nottingham
-      time: 2015 - 2018
-      details: |
-          - Focus on the physical and scientific aspects of Geography 
-          - Speciality focus on Biogeography, Environmental and Climate Change
-          - 1st Dissertation on the sustainability of the fishing indisutry in the Pacific Ocean
-    - degree: International Baccelaureate
-      university: Hockerill Anglo European College
-      time: 2008 - 2015
-      details: |
-          - 36 points
-          - Higher Level Geography (6), Biology (6) and French (6)
-          - Standard Level Mathematics (5), English Literature (5) and Social Anthropolgy (6)
-          - Additional Points Extended Essay (A) and Theory of Knoweldge (C) 
         
 experiences:
     - role: Community Manager
@@ -103,7 +86,31 @@ experiences:
           - Understanding, monitoring and analysising change diagrams, comparing current and future ways of working, to ensure level of 
           change needed is understood to inform wider programme plans
           - Diary management and minute recording of key project and programme meetings
-        
+
+education:
+    - degree: BSc Geography
+      university: University of Nottingham
+      time: 2015 - 2018
+      details: |
+          - Focus on the physical and scientific aspects of Geography 
+          - Speciality focus on Biogeography, Environmental and Climate Change
+          - 1st Dissertation on the sustainability of the fishing indisutry in the Pacific Ocean
+    - degree: International Baccelaureate
+      university: Hockerill Anglo European College
+      time: 2008 - 2015
+      details: |
+          - 36 points
+          - Higher Level Geography (6), Biology (6) and French (6)
+          - Standard Level Mathematics (5), English Literature (5) and Social Anthropolgy (6)
+          - Additional Points Extended Essay (A) and Theory of Knoweldge (C) 
+
+volunteering: 
+   - title: President - Univeristy of Nottingham's Dance Society
+     details: 
+    
+   - title: 
+     details:
+     
 publications:
     title: 
     intro: 
